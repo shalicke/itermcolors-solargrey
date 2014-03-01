@@ -1,7 +1,7 @@
-itermcolors-solargrey
+itermcolors-monoized
 =====================
 
-SolarGrey, a modified (grey-base) offshoot of [Solarized](https://github.com/altercation/solarized).
+Monoized, a modified (grey-base) offshoot of [Solarized](https://github.com/altercation/solarized).
 
 #### Reasoning
 
@@ -15,7 +15,7 @@ What I did instead is just to 'remove the offender' in the sense that I created 
 - the same L*a*b lightness relationships through the 'base' colors
 - zero hue in the base set
 
-So, essentially, it's a mono version. Monoized?
+So, essentially, it's a mono version. Monoized.
 
 Note:  Right now, this is only really effective if you are controlling the base 16 terminal colors (e.g. an .Xresources palette or Terminal/iTerm color set.)
 
